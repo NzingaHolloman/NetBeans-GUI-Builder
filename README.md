@@ -1,8 +1,8 @@
 # NetBeans GUI Builder
 
-This is a lab for COMP 167, Computer Program Design at North Carolina A&T State University.
+This is a JavaFX lab for COMP 167, Computer Program Design at North Carolina A&T State University.
 
-Instructor: Dr. Kelvin Bryant ksbryant@ncat.edu
+Instructor: Professor Karen Schnell - klschnell@ncat.edu
 
 ### Lab Description
 
